@@ -1,1 +1,1 @@
-print("i love my family")
+print("*_*")
